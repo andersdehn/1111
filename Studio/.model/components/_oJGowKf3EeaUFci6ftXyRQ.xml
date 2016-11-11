@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" uuid="_oJGowKf3EeaUFci6ftXyRQ" name="MyComp">
-  <variables xsi:type="comp:DeclaredVariable" uuid="_13ICgKf4EeaUFci6ftXyRQ" name="Variable" visibility="800">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_13ICgKf4EeaUFci6ftXyRQ" name="Variable_A" visibility="800">
     <domain uuid="_13ICgaf4EeaUFci6ftXyRQ" name="local" visibility="300">
       <typeSet uuid="_13ICgqf4EeaUFci6ftXyRQ" bitSet="393231"/>
+    </domain>
+  </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_8-GFMKf4EeaUFci6ftXyRQ" name="integer" visibility="800" initValue="7">
+    <domain uuid="_8-GFMaf4EeaUFci6ftXyRQ" name="local" visibility="300">
+      <typeSet uuid="_8-GFMqf4EeaUFci6ftXyRQ" bitSet="393231"/>
+      <values uuid="_-otz8Kf4EeaUFci6ftXyRQ" name="1..10" editable="false" visibility="300"/>
     </domain>
   </variables>
   <geometry deletable="false" uuid="_oJGowaf3EeaUFci6ftXyRQ" name="root">
