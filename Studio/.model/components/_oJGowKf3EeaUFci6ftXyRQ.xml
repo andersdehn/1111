@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" uuid="_oJGowKf3EeaUFci6ftXyRQ" name="Component">
+  <geometry deletable="false" uuid="_oJGowaf3EeaUFci6ftXyRQ" name="root">
+    <parentPlugs uuid="_oJGowqf3EeaUFci6ftXyRQ" name="ParentPlug"/>
+  </geometry>
+</comp:Component>
