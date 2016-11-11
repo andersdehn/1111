@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" uuid="_eqSg8Fc5EeWo-40Qyxiobw" name="link_owner_component" componentClass="LINKOWNER" displayName="Link Owner" insertFree="true">
+  <calculation uuid="_HcfooKf3EeaUFci6ftXyRQ" name="Calculation_Rules" visibility="800"/>
   <cursorTwoD uuid="_WWlTcFc7EeWo-40Qyxiobw" name="Cursor2" twoDElementsColor="_-LmWIFc6EeWo-40Qyxiobw _GOiR0Fc7EeWo-40Qyxiobw">
     <onColor href="../product_model.xml#N65557"/>
   </cursorTwoD>
