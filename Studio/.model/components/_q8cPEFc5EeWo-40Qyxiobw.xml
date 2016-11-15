@@ -10,7 +10,7 @@
       <typeSet uuid="_GC-J0qTqEea8d6P1JTl01w" bitSet="10"/>
     </domain>
   </variables>
-  <variables xsi:type="comp:DeclaredVariable" uuid="_tStj0KtNEeaNRd5_GmbluA" name="b" visibility="800">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_tStj0KtNEeaNRd5_GmbluA" name="bl" visibility="800">
     <domain uuid="_tStj0atNEeaNRd5_GmbluA" name="local" visibility="300">
       <typeSet uuid="_tStj0qtNEeaNRd5_GmbluA" bitSet="393231"/>
     </domain>
